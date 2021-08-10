@@ -56,3 +56,4 @@ func main() {
 
 调用函数的时候使用NewCall(),第一个参数是该服务有的方法名，后续参数则是传入的参数。如果你的远程注册方法不需要传入参数则你只需要传入一个“ ”就能达到效果。
 
+![image](https://user-images.githubusercontent.com/73375890/128823344-a4ff780c-5f42-4e33-b5a6-586c97205813.png)
